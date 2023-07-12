@@ -1,0 +1,78 @@
+.logincard,
+.log-form,
+.regcard,
+.reg-form {
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.reg-form>input {
+    margin: 0.5rem 0;
+    padding: .5rem;
+    border: none;
+    border-radius: 10px;
+}
+
+.log-form>input {
+    margin: 0.5rem 0;
+    padding: .5rem;
+    border: none;
+    border-radius: 10px;
+}
+
+.form_button {
+    border: none;
+    background-color: white;
+    padding: 10px;
+    background: #e09f3d;
+    color: #000000;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+
+}
+
+.link_btn {
+    text-decoration: underline;
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: white;
+}
+
+.login-page,
+.reg-page {
+    color: white;
+    text-align: center;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(79deg, #7e7575, #49b3da 48%, #e1ef97);
+}
+
+.reg-form>label {
+
+    padding: 1rem 0.25;
+    text-align: left;
+}
+
+
+
+.log-form>label {
+    padding: 1rem 0.25;
+    text-align: left;
+}
+
+@media screen and (min-width:600px) {
+
+    .logincard,
+    .regcard {
+        padding: 5rem;
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 10px;
+        margin: 0.5rem;
+    }
+}

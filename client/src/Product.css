@@ -1,0 +1,34 @@
+.card-img-top {
+    height: 400px;
+    width: 300px;
+    object-fit: contain;
+}
+
+.col-4 {
+    border-radius: 0px;
+    margin-bottom: 20px;
+
+
+}
+
+.card {
+    padding: 20px 18px;
+    background:transparent   !important;
+}
+
+.card-body {
+    text-align: center;
+}
+.row{
+    margin: 5% 2% !important; 
+}
+.our_product {
+    background-image: linear-gradient(rgb(204, 236, 248),#4ca1af );
+    padding: 2% 0%;
+}
+
+.card_div {
+    display: flex;
+    flex: 33%;
+    margin-bottom: 3%;
+}

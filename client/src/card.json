@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "category": "Two Wheeler",
+        "brand": "Exide",
+        "dealer": "Ramesh",
+        "contact": "9988776655",
+        "price": 4000,
+        "discription": "Two Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    },
+    {
+        "id": "2",
+        "category": "Four Wheeler",
+        "brand": "Exide",
+        "dealer": "Manish",
+        "contact": "9988776655",
+        "price": 6000,
+        "discription": "Two Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    },
+    {
+        "id": "3",
+        "category": "Car",
+        "brand": "Exide",
+        "price": 8000,
+        "dealer": "Ravneesh",
+        "contact": "9988776655",
+        "discription": "Two Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    }
+]

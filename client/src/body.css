@@ -1,0 +1,47 @@
+.body {
+    /* background-image:url("../background.jpg"); */
+    background-image: url("https://lh3.googleusercontent.com/p/AF1QipM1UHfD37WVb4ElWXdTGSYmPBcj2YxUtcwH_Whf=w1080-h608-p-no-v0");
+    height: 88vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 0 80px;
+    align-items: flex-start;
+    justify-content: center;
+    background-size: cover;
+
+
+    background-position: top 25% right 0%;
+    background-repeat: no-repeat;
+}
+
+.body h2 {
+    padding-bottom: 10px;
+
+}
+
+.body h1,
+p {
+    color: #088178
+}
+
+.body button {
+    background-color: rgb(41, 174, 165);
+    color: rgb(255, 255, 255);
+    border: 0;
+    border-radius: 20px;
+    padding: 14px 80px 14px 65px;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.popup {
+    border: 1px thick rgb(0, 0, 0);
+    box-shadow: 10px 10px 54px rgba(67, 64, 64, .8);
+    border-radius: 5px;
+    padding: 70px 70px;
+
+    background-color: rgba(156, 164, 182, 0.658);
+}
